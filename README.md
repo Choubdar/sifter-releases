@@ -46,7 +46,7 @@ Unzip `sifter-windows-x64.zip` and run `sifter.exe`. For TUN mode, start it as a
 
 ---
 
-# سیفتر (Sifter)
+# الک (Sifter)
 
 سیفتر کانکشن‌های VPN را تست می‌کند و از بهترینشان وصل می‌شود. روی لینوکس و ویندوز اجرا می‌شود.
 
